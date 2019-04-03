@@ -1,4 +1,4 @@
-# Digital-Pedagogy-An-EPIC-Seminar
+# Digital Pedagogy an EPIC Seminar
 
 Faculty leaders: Chris Johanson (Classics), Miriam Posner (Information Studies)
 GSR: Dustin O’Hara (Information Studies)
