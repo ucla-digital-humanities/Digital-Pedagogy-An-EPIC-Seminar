@@ -25,11 +25,11 @@ Introduction + summary of course and desired DH inflection
 General principles on teaching technology.
 Voyant, a tool for simple text analysis 
 
-Pedagogy
+### Pedagogy
 
 Software Carpentries. “Building Skill With Practice” and subsequent lessons, Software Carpentries Instructor Training, 2019. https://carpentries.github.io/instructor-training/02-practice-learning/index.html.
 
-Text Analysis
+### Text Analysis
 
 Houston, Natalie. “Text Analysis.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. New York: Modern Language Association, 2019. https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/textanalysis.md.
 
@@ -45,7 +45,7 @@ Sack, C. (2017). Web Mapping. The Geographic Information Science & Technology Bo
 
 Johanson, Christopher, Elaine Sullivan, Janice Reiff, Diane Favro, Todd Presner, and Willeke Wendrich. 2012. “Teaching Digital Humanities through Digital Cultural Mapping.” In Digital Humanities Pedagogy, edited by Brett D. Hirsch, 121–49. Cambridge: Open Books Publishers. 
 
-Visualization
+### Visualization
 
 Cairo, Alberto. The Functional Art: An Introduction to Information Graphics and Visualization. Berkeley, CA: New Riders, 2013. Chapters six and eight.
 
