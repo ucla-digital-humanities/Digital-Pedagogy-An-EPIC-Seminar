@@ -1,5 +1,7 @@
 # Digital Pedagogy an EPIC Seminar
 
+https://ucla-digital-humanities.github.io/Digital-Pedagogy-An-EPIC-Seminar/
+
 Faculty leaders: Chris Johanson (Classics), Miriam Posner (Information Studies)
 GSR: Dustin O’Hara (Information Studies)
 
