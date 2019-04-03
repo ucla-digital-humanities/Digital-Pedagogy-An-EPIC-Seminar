@@ -1,0 +1,2 @@
+# Digital-Pedagogy-An-EPIC-Seminar
+This seminar will help faculty and graduate students develop expertise in the tools and methods necessary to incorporate digital humanities projects and concepts into their classes. We expect faculty and graduate students to come to the seminar with their own expertise and interests, and rather than asking them to rewrite their entire syllabuses, we will work with them to build DH projects into existing classes. 
