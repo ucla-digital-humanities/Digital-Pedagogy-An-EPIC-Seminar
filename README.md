@@ -12,7 +12,7 @@ The seminar begins with an overview and history of the field, along with some ex
 
 Throughout, we’ll interrogate the existing lecture/seminar structure at UCLA and discuss ways that we might adapt or transform it. As we address the needs and desiderata of our participants, we’ll examine how existing infrastructure might be brought to bear, how current classrooms might be utilized, and which new spaces and technologies might be necessary to stage these courses in future. We imagine participants will emerge from the seminar with two tangible outcomes: a revised syllabus that includes digital humanities-inflected assignments; and a collaboratively authored whitepaper that identifies gaps, resources, and opportunities in the university’s current support for digital humanities pedagogy. 
 
-Introductory Material
+## Introductory Material
 
 McCarty, Willard. 2015. “Becoming Interdisciplinary.” In A New Companion to Digital Humanities, edited by Susan Schreibman, Ray Siemens, and John Unsworth, 67–83. John Wiley & Sons, Ltd. http://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch5/summary.
 
@@ -25,7 +25,7 @@ Introduction + summary of course and desired DH inflection
 General principles on teaching technology.
 Voyant, a tool for simple text analysis 
 
-Pedagogy
+## Pedagogy
 
 Software Carpentries. “Building Skill With Practice” and subsequent lessons, Software Carpentries Instructor Training, 2019. https://carpentries.github.io/instructor-training/02-practice-learning/index.html.
 
