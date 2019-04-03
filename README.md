@@ -18,14 +18,14 @@ McCarty, Willard. 2015. “Becoming Interdisciplinary.” In A New Companion to 
 
 McPherson, Tara. “Introduction: Media Studies and the Digital Humanities.” Cinema Journal 48, no. 2 (2008): 119–23. https://doi.org/10.1353/cj.0.0077.
 
-1. Week 2: Introduction, Teaching Technology,  (Lightweight) Text Analysis 
+## 1. Week 2: Introduction, Teaching Technology,  (Lightweight) Text Analysis 
 Wednesday 4/10, 1-4pm
 
 Introduction + summary of course and desired DH inflection
 General principles on teaching technology.
 Voyant, a tool for simple text analysis 
 
-## Pedagogy
+Pedagogy
 
 Software Carpentries. “Building Skill With Practice” and subsequent lessons, Software Carpentries Instructor Training, 2019. https://carpentries.github.io/instructor-training/02-practice-learning/index.html.
 
@@ -34,12 +34,12 @@ Text Analysis
 Houston, Natalie. “Text Analysis.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. New York: Modern Language Association, 2019. https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/textanalysis.md.
 
 
-2. Week 4: Mapping and Visualization
+## 2. Week 4: Mapping and Visualization
 Wednesday 4/24, 1-4pm
 
 Flourish, a web-based tool for data visualization and mapping
 
-Mapping
+### Mapping
 
 Sack, C. (2017). Web Mapping. The Geographic Information Science & Technology Body of Knowledge (4th Quarter 2017 Edition), John P. Wilson (ed.). https://gistbok.ucgis.org/bok-topics/web-mapping.
 
@@ -52,7 +52,7 @@ Cairo, Alberto. The Functional Art: An Introduction to Information Graphics and 
 Sinclair, Stefán. “Visualization.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. New York: Modern Language Association, 2019. https://github.com/curateteaching/digitalpedagogy.
 
 
-3. Week 6: 3D
+## 3. Week 6: 3D
 Wednesday 5/8, 1-4pm
 
 McCarty, Willard. 2004. "Modeling: A Study in Words and Meanings.” In A Companion to Digital Humanities, edited by Susan Schreibman, Raymond George Siemens, and John Unsworth, 254-70. Blackwell Companions to Literature and Culture. Malden, Mass: Blackwell Pub.
@@ -63,14 +63,14 @@ Wall, John N. 2014. “Transforming the Object of Our Study: The Early Modern Se
 
 
 
-4) Week 7: Digital Storytelling
+## 4) Week 7: Digital Storytelling
 Wednesday 5/15, 2-4pm
 iMovie, Audacity, and SketchUp as simple digital storytelling tools
 
 Alexander, Bryan. “Digital Storytelling.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. New York: Modern Language Association, 2019. https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/storytelling.md.
 
 
-5) Week 10: Digital Publication 
+## 5) Week 10: Digital Publication 
 Wednesday 6/5, 1-4pm
 
 Scalar, a tool for digital publication
