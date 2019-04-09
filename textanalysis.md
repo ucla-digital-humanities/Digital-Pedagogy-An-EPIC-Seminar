@@ -10,4 +10,6 @@
 
 ## Tutorials
 
+## Sample Assignments
+
 ## Additional Reading
