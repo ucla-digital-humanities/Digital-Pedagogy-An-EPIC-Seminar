@@ -8,6 +8,12 @@
 
 [Lexos](http://lexos.wheatoncollege.edu/upload)
 
+[WordHoard](http://wordhoard.northwestern.edu/userman/index.html)
+
+[WordSeer](http://wordseer.berkeley.edu/)
+
+[AntConc](http://www.laurenceanthony.net/software/antconc/)
+
 ## Tutorials
 
 ## Sample Assignments
