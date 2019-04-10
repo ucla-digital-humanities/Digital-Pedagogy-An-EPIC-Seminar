@@ -16,6 +16,12 @@
 
 ## Tutorials
 
+### Overview - (rudimentary) distant reading
+
+#### Download [Billboard Top 100 1950-2016](https://github.com/ucla-digital-humanities/Digital-Pedagogy-An-EPIC-Seminar/blob/master/Billboard100_Decades_DH_STE.zip)
+
+#### Upload to [Voyant](https://voyant-tools.org/)
+
 ## Sample Assignments
 
 ## Additional Reading
