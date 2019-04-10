@@ -56,6 +56,8 @@
 
 [*The Journal of Interactive Technology and Pedagogy*](https://jitp.commons.gc.cuny.edu/)
 
+[*Kairos: A Journal of Rhetoric, Technology, and Pedagogy*](http://kairos.technorhetoric.net/)
+
 ["Listening in on the Conversations: An Overview of Digital Humanities Pedagogy," by E. Leigh Bonds](https://kb.osu.edu/bitstream/handle/1811/84568/Bonds_CEACritic_2014-07.pdf?sequence=2)
 
 ["Troubleshooting an assignment that almost worked," by Lawrence Evalyn](https://www.hastac.org/blogs/lawrenceevalyn/2018/08/21/troubleshooting-assignment-almost-worked) 
