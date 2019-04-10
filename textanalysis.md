@@ -16,7 +16,9 @@
 
 ## Tutorials
 
-### Overview - (rudimentary) distant reading
+[Text analysis using Voyant Tools, by Beth Platte](https://blogs.reed.edu/ed-tech/2017/03/text-analysis-using-voyant-tools/)
+
+## Overview - (rudimentary) distant reading
 
 * Download [Billboard Top 100 1950-2016](https://github.com/ucla-digital-humanities/Digital-Pedagogy-An-EPIC-Seminar/blob/master/Billboard100_Decades_DH_STE.zip)
 
