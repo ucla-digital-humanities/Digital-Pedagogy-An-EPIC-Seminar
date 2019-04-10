@@ -1,4 +1,4 @@
-[# Digital scholarship resources available at UCLA](https://github.com/miriamposner/ucla-dh-resources/blob/master/dh_resources_at_ucla.md)
+# [Digital scholarship resources available at UCLA](https://github.com/miriamposner/ucla-dh-resources/blob/master/dh_resources_at_ucla.md)
 
 # Text Analysis Resources
 
