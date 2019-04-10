@@ -46,6 +46,8 @@
 
 ## Additional Reading
 
+["Lincoln Logarithms: Finding Meaning in Sermons," by Sarita Alami, Katie Rawson, Sara Palmer, and Moya Bailey](http://disc.library.emory.edu/lincoln/)
+
 [Getting Started with Digital Humanities in the Classroom, by Hannah Jacobs](http://arthistoryteachingresources.org/2018/10/getting-started-with-digital-humanities-in-the-classroom/)
 
 [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.mla.hcommons.org/description/)
