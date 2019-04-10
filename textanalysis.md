@@ -44,6 +44,8 @@
 
 ["Draftback to the Future: A Tool for Writing-Process Analysis," by Elizabeth Chamberlain](https://jitp.commons.gc.cuny.edu/draftback-to-the-future-a-tool-for-writing-process-analysis/)
 
+A tip: the journal [*Kairos*](http://kairos.technorhetoric.net/) often prints detailed assignments *and* rubrics for evaluating digital student work. Try searching the journal for "rubric" to see examples.
+
 ## Additional Reading
 
 ["Lincoln Logarithms: Finding Meaning in Sermons," by Sarita Alami, Katie Rawson, Sara Palmer, and Moya Bailey](http://disc.library.emory.edu/lincoln/)
