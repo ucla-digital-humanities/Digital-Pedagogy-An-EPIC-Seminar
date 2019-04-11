@@ -38,6 +38,8 @@ Upload to [Voyant](https://voyant-tools.org/)
 
 [Distant-reading the *Aeneid*, by Rebecca Frost Davis](https://rebeccafrostdavis.wordpress.com/2013/11/12/reflections-on-a-text-analysis-assignment/)
 
+[Distant-reading early American texts, by Craig Carey](http://www.craigcarey.net/s15al/distant-reading-assignment/)
+
 [Indices vs. digital tools (for a class on Victorian literature), by Winter Jade Werner](https://www.studiesinthenovel.org/content/%E2%80%9Creading-indexically%E2%80%9D-assignment-indexing-and-digital-humanities)
 
 [Digital Humanities and Mary Shelley's The Last Man, by Michelle Mouton](https://www.acm.edu/professional_development/project/106/digital-humanities-and-mary-shelley-s-the-last-man)
