@@ -1,6 +1,9 @@
+[Today's tutorial: Getting started with Palladio](https://github.com/miriamposner/palladio_workshop/blob/master/Getting_Started_with_Palladio.md)
+
 # Mapping Resources
 
 ## Tools
+[Palladio](https://hdlab.stanford.edu/palladio/)
 
 [ESRI Story Maps](https://storymaps.arcgis.com/en/)
 
