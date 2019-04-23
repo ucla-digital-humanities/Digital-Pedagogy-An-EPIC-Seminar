@@ -63,6 +63,6 @@
 
 ["Using Digital Archives to Teach Data Set Creation and Visualization Design" by Kate Holterhoff](https://www.chronicle.com/blogs/profhacker/digital-archives-data-set-creation/64390)
 
-["Teaching Students to Focus on the Data in Data Visualization" by Joanna Wolfe](Teaching Students to Focus on the Data in Data Visualization)
+["Teaching Students to Focus on the Data in Data Visualization" by Joanna Wolfe](https://journals.sagepub.com/doi/10.1177/1050651915573944)
 
 ["Creative Data Literacy: A Constructionist Approach to Teaching Information Visualization" by Catherine D'Ignazio and Rahul Bhargava](http://www.digitalhumanities.org/dhq/vol/12/4/000403/000403.html)
