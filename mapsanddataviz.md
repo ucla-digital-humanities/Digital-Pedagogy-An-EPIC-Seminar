@@ -42,6 +42,27 @@
 
 ## Tools
 
+[Flourish](https://flourish.studio/)
+
+[RAWGraphs](https://rawgraphs.io/)
+
+[Quadrigram](http://www.quadrigram.com/)
+
+[Datawrapper](https://www.datawrapper.de/)
+
 ## Tutorials
 
+["Data Visualization" from George Mason University Libraries](https://infoguides.gmu.edu/data-visualization)
+
+["Data Visualization" from Duke University Libraries](https://guides.library.duke.edu/datavis)
+
+["Data Visualization from NYU Data Services"](https://guides.nyu.edu/viz)
+
+
 ## Assignments
+
+["Using Digital Archives to Teach Data Set Creation and Visualization Design" by Kate Holterhoff](https://www.chronicle.com/blogs/profhacker/digital-archives-data-set-creation/64390)
+
+["Teaching Students to Focus on the Data in Data Visualization" by Joanna Wolfe](Teaching Students to Focus on the Data in Data Visualization)
+
+["Creative Data Literacy: A Constructionist Approach to Teaching Information Visualization" by Catherine D'Ignazio and Rahul Bhargava](http://www.digitalhumanities.org/dhq/vol/12/4/000403/000403.html)
