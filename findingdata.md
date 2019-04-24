@@ -12,6 +12,8 @@ CSV, or comma-separated value, files organize data in the rows-and-columns forma
 
 I like to collect data, and rather than list it all here, I've [gathered it on my bookmarking site](https://pinboard.in/u:miriamposner/t:humdata/). In some cases, the data-collectors have shared data with me that's not publicly available on the web. I've denoted those cases and am happy to check with the creators about sharing, if you get in touch with me.
 
+You can also have students build a dataset, either individually or collaboratively. This is a terrific way to get them thinking critically about categorization, archives, and authority. My students did this to build a [database of race films](http://dhbasecamp.humanities.ucla.edu/afamfilm/) and it provoked many wonderful discussions.
+
 Alan Liu, at UC Santa Barbara, has [a wonderful collection](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage) of data, tutorials, tools, and examples.
 
 [Data is Plural](https://tinyletter.com/data-is-plural/archive) is a great weekly newsletter that contains links to unusual and interesting datasets. You can view all of the datasets in [this spreadsheet](https://tinyletter.com/data-is-plural/archive).
