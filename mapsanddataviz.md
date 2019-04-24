@@ -61,13 +61,33 @@
 
 ## Tools
 
+[WTFcsv](https://www.databasic.io/en/wtfcsv/)
+
+Built by educators, this simple tool is perfect for students' first encounters with a dataset.
+
+[Palladio](https://hdlab.stanford.edu/palladio/)
+
+Built by and for humanists, Palladio is a web-based tool designed for the exploration (not, importantly, the presentation) of humanities data.
+
 [Flourish](https://flourish.studio/)
+
+A web-based visualization tool that has a growing set of fans among data journalists. My students really like it, and it's on my list of tools to develop materials for.
 
 [RAWGraphs](https://rawgraphs.io/)
 
+A drag-and-drop, web-based tool that allows users to create some unusual visualization types. My students' favorite by far is the alluvial diagram.
+
 [Quadrigram](http://www.quadrigram.com/)
 
+A drag-and-drop, web-based tool, similar to Flourish. I don't know the platforms well enough to enumerate their differences.
+
 [Datawrapper](https://www.datawrapper.de/)
+
+A drag-and-drop, web-based tool that offers refreshingly few options and creates nice-looking graphs and charts.
+
+[Tableau Public]
+
+Tableau is in wide use in the professional world and can create visualizations from the simple to the incredibly complex. It can be overwhleming for the first-time user, but once students get the hang of it, they tend to really like it. I have some tutorials for [visualization](https://github.com/miriamposner/get-started-with-tableau/blob/master/getting-started-with-tableau-public.md) and [mapping](https://github.com/miriamposner/tableau_maps_1/blob/master/make-a-map-with-tableau.md) ([part 2 of mapping](https://github.com/miriamposner/tableau_maps_2/blob/master/tableau-mapping-2--geolocation-and-basemaps.md)).
 
 ## Tutorials
 
