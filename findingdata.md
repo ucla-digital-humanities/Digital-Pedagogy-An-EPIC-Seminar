@@ -1,6 +1,6 @@
 # Finding Data for the Humanities Classroom
 
-This is a big topic, and I could write a book on it! I'll spare you the nitty-gritty details, though, and just by issuing a couple pieces of advice.
+This is a big topic, and I could write a book on it! I'll spare you the nitty-gritty details, though, and begin by just issuing a couple pieces of advice.
 
 First, there is no central humanities data repository. That's not to say that there aren't humanities data repositories -- [there are](https://guides.lib.uci.edu/datamanagement/dr_humanities) -- but to date, none of them has gathered enough momentum to be the obvious go-to place for data. So finding data for the humanities classroom is less like one-stop shopping and more like a treasure hunt.
 
