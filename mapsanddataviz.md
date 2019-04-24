@@ -105,3 +105,15 @@ A drag-and-drop, web-based tool that offers refreshingly few options and creates
 ["Teaching Students to Focus on the Data in Data Visualization" by Joanna Wolfe](https://journals.sagepub.com/doi/10.1177/1050651915573944)
 
 ["Creative Data Literacy: A Constructionist Approach to Teaching Information Visualization" by Catherine D'Ignazio and Rahul Bhargava](http://www.digitalhumanities.org/dhq/vol/12/4/000403/000403.html)
+
+## Books and articles to encourage critical thinking about dataviz
+
+In my experience, the most difficult part of encouraging students to think critically about data visualization is that their natural tendency is to criticize visualizations' effectiveness and legibility, according to conventional heuristics. It's more difficult to get them thinking about epistemology and graphic form. Therefore, while critiques of dataviz by practitioners in the field (like WTFviz, below) can be really useful, it's also important to put them in perspective.
+
+[Johanna Drucker, "Humanities Approaches to Graphical Display"](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
+
+[Lauren Klein and Catherine D'Ignazio, *Data Feminism*, perhaps especially chapter two](https://bookbook.pubpub.org/data-feminism)
+
+[C.W. Anderson, *Apostles of Certainty: Data Journalism and the Politics of Doubt*](https://global.oup.com/academic/product/apostles-of-certainty-9780190492335?cc=us&lang=en&)
+
+[WTFviz](https://viz.wtf/)
