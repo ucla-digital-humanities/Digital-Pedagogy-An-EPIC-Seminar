@@ -4,6 +4,8 @@
 
 [Today's tutorial: Getting started with Palladio](https://github.com/ucla-digital-humanities/palladio_workshop/blob/master/Getting_Started_with_Palladio.md)
 
+[Today's dataset](https://www.dropbox.com/s/rn40mchgrusip0x/Cushman-Collection.csv?dl=1)
+
 ## DH and Accessibility
 
 ["Disability, Universal Design, and Digital Humanities" by George H. Williams](http://dhdebates.gc.cuny.edu/debates/text/44)
