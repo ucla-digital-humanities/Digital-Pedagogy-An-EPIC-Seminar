@@ -85,9 +85,9 @@ A drag-and-drop, web-based tool, similar to Flourish. I don't know the platforms
 
 A drag-and-drop, web-based tool that offers refreshingly few options and creates nice-looking graphs and charts.
 
-[Tableau Public]
+[Tableau Public](https://public.tableau.com/en-us/s/)
 
-Tableau is in wide use in the professional world and can create visualizations from the simple to the incredibly complex. It can be overwhleming for the first-time user, but once students get the hang of it, they tend to really like it. I have some tutorials for [visualization](https://github.com/miriamposner/get-started-with-tableau/blob/master/getting-started-with-tableau-public.md) and [mapping](https://github.com/miriamposner/tableau_maps_1/blob/master/make-a-map-with-tableau.md) ([part 2 of mapping](https://github.com/miriamposner/tableau_maps_2/blob/master/tableau-mapping-2--geolocation-and-basemaps.md)).
+(Be sure to use Tableau Public; the others cost money.) Tableau is in wide use in the professional world and can create visualizations from the simple to the incredibly complex. It can be overwhleming for the first-time user, but once students get the hang of it, they tend to really like it. I have some tutorials for [visualization](https://github.com/miriamposner/get-started-with-tableau/blob/master/getting-started-with-tableau-public.md) and [mapping](https://github.com/miriamposner/tableau_maps_1/blob/master/make-a-map-with-tableau.md) ([part 2 of mapping](https://github.com/miriamposner/tableau_maps_2/blob/master/tableau-mapping-2--geolocation-and-basemaps.md)).
 
 ## Tutorials
 
