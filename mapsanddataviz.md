@@ -1,4 +1,20 @@
-[Today's tutorial: Getting started with Palladio](https://github.com/miriamposner/palladio_workshop/blob/master/Getting_Started_with_Palladio.md)
+# General Resources
+
+[Finding data](https://github.com/ucla-digital-humanities/Digital-Pedagogy-An-EPIC-Seminar/blob/master/findingdata.md)
+
+[Today's tutorial: Getting started with Palladio](https://github.com/ucla-digital-humanities/palladio_workshop/blob/master/Getting_Started_with_Palladio.md)
+
+## DH and Accessibility
+
+["Disability, Universal Design, and Digital Humanities" by George H. Williams](http://dhdebates.gc.cuny.edu/debates/text/44)
+
+["Mapping Access: Digital Humanities, Disability Justice, and Sociospatial Practice" by Aimi Hamraie](http://muse.jhu.edu/article/704333/pdf)
+
+["Digital Accessibility and You" by Lora Tompkins](https://www.hastac.org/blogs/loratompkins/2018/02/15/digital-accessibility-and-you)
+
+["Accessibility" in *Digital Humanities: A Primer*](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-6-accessibility-and-design/)
+
+["Access" by George H. Williams](https://digitalpedagogy.mla.hcommons.org/keywords/access/)
 
 # Mapping Resources
 
