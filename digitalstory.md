@@ -1,4 +1,4 @@
-#Digital Storytelling Resources
+# Digital Storytelling Resources
 
 [A helpful list of digital storytelling tools from Butler University](http://libguides.butler.edu/c.php?g=561359&p=3863877)
 
@@ -12,7 +12,7 @@
 
 [Finding media](https://guides.beloit.edu/media-toolbox/finding-media)
 
-##Assignments and Rubrics
+## Assignments and Rubrics
 
 [Miriam's assignment (1)](http://miriamposner.com/classes/is270w18/digital-storytelling/)
 
