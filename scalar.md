@@ -9,6 +9,16 @@
 
 [*Sailing the British Empire: The Voyages of* The Clarence, *1858-73*, by students in Ian Petrie's first-year seminar in the History and Social Studies of Science at Penn](http://scalar.usc.edu/works/the-voyages-of-the-clarence/index). 
 
+[*Digital Writing*, by William Deal et al.](http://scalar.usc.edu/works/digital-writing/index). (A Scalar book documenting the findings of a year-long faculty working group at Case Western Reserve on digital writing. See, in particular, [sample assignments](http://scalar.usc.edu/works/digital-writing/assignments) and [assessment techniques](http://scalar.usc.edu/works/digital-writing/evaluation).)
+
+[*The Making of a Broadside Ballad*, by faculty, staff, and students associated with the English Broadside Ballad Archive at UCSB](http://press.emcimprint.english.ucsb.edu/the-making-of-a-broadside-ballad/index).
+
+[*Women of the Early Harlem Renaissance*, by Amardeep Singh](https://scalar.lehigh.edu/harlemwomen/index).
+
+[*Race and the Digital*, by students in Genevieve Carpio's Race and the Digital class at UCLA](http://scalar.usc.edu/works/race-and-the-digital/index)
+
+[*more than meets the eye: the videos of Tran T. Kim-Trang*, by Jesse Lerner, Trang Tran, and Holly Willis](http://scalar.usc.edu/works/more-than-meets-the-eye-the-videos-of-tran-t-kim-trang/index).
+
 ## Articles and Lesson Plans
 
 ["Practicing Collaborative Digital Pedagogy to Foster Digital Literacies in Humanities Classrooms," by Anita Say Chan and Harriett Green.](https://er.educause.edu/articles/2014/10/practicing-collaborative-digital-pedagogy-to-foster-digital-literacies-in-humanities-classrooms) (Discusses both Omeka and Scalar, along with some other tools.)
