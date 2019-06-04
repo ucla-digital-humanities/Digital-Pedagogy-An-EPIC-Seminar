@@ -28,3 +28,21 @@
 [Tea for Teaching podcast on Scalar](http://teaforteaching.com/57-scalar/) (Fiona Coll, an assistant professor of technology and literature at SUNY-Oswego, discusses how to use Scalar to make the writing process visible.)
 
 ["Multimodal," by Virginia Kuhn, in *Digital Pedagogy in the Humanities*](https://digitalpedagogy.mla.hcommons.org/keywords/multimodal/). (Discusses multimodal pedagogy and includes a gallery of examples and lesson plans.)
+
+## Tutorials and Other Instructional Material
+
+[Scalar User's Guide, by the Scalar team](http://scalar.usc.edu/works/guide2/index).
+
+[Scalar Introduction, by Darren Chase](https://guides.library.stonybrook.edu/scalar).
+
+[Scalar Introduction, by Danielle Reay](https://researchguides.njit.edu/scalar).
+
+[Scalar Platform -- Guided Tour, by the Scalar team](https://vimeo.com/45263290).
+
+## Other Tools for Multimedia Publishing
+
+[Omeka](https://omeka.org/). Designed specifically for exhibits.
+
+[WordPress](https://wordpress.org/). A very popular content-management system, originally designed for blogging but capable of many functions.
+
+[GitHub Pages](https://pages.github.com/). A relatively simple, free way to publish students' pages to the web.
