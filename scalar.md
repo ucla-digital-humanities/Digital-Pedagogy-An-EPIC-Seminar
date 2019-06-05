@@ -3,6 +3,8 @@
 
 [Miriam's slides](https://docs.google.com/presentation/d/1EI_N4NNHL5_UTiGljRpbOU0ItgcdlxJgOCGtEP0WU0g/edit?usp=sharing) (include clickable examples).
 
+[Platforms for Pedagogy comparison chart](https://airtable.com/shruGo6djbKfzzn1X).
+
 ## FERPA
 
 UCLA's Center for the Advancement of Teaching [advice on FERPA](https://www.teaching.ucla.edu/online/incorporating-technology) for online student work. (Scroll to "Web 2.0, Evolving Technologies, and FERPA.")
