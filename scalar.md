@@ -1,5 +1,13 @@
 
-# Scalar Resources
+# Resources on Digital Publication
+
+## FERPA
+
+UCLA's Center for the Advancement of Teaching [advice on FERPA](https://www.teaching.ucla.edu/online/incorporating-technology) for online student work. (Scroll to "Web 2.0, Evolving Technologies, and FERPA.")
+
+[UCLA Permission to Release Education Record form](https://github.com/ucla-digital-humanities/Digital-Pedagogy-An-EPIC-Seminar/blob/master/UCLA%20Permission%20to%20Release%20Education%20Record.pdf).
+
+[Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More](https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more) (HASTAC).
 
 ## Scalar Projects
 
