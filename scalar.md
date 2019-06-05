@@ -31,6 +31,8 @@ UCLA's Center for the Advancement of Teaching [advice on FERPA](https://www.teac
 
 ["Practicing Collaborative Digital Pedagogy to Foster Digital Literacies in Humanities Classrooms," by Anita Say Chan and Harriett Green.](https://er.educause.edu/articles/2014/10/practicing-collaborative-digital-pedagogy-to-foster-digital-literacies-in-humanities-classrooms) (Discusses both Omeka and Scalar, along with some other tools.)
 
+["Omeka and Other Digital Platforms for Undergraduate Research Projects on the Middle Ages," by Esther Liberman Cuenca and Maryanne Kowaleski](https://journal.digitalmedievalist.org/articles/10.16995/dm.69/). A nicely detailed discussion of strategies for incorporating digital publication platforms into the undergraduate classroom. One author used the exhibit-building platform Omeka; the other used the drag-and-drop web-building software Weebly.
+
 ["Scaffolding and Play Approaches to Digital Humanities Pedagogy: Assessment and Iteration in Topically-Driven Courses," by Daniel G. Tracy and Elizabeth Massa Hoiem](http://www.digitalhumanities.org/dhq/vol/11/4/000358/000358.html) (Discusses a multimedia publishing assignment using Scalar)
 
 [Tea for Teaching podcast on Scalar](http://teaforteaching.com/57-scalar/) (Fiona Coll, an assistant professor of technology and literature at SUNY-Oswego, discusses how to use Scalar to make the writing process visible.)
