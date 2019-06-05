@@ -3,7 +3,7 @@
 
 [Miriam's slides](https://docs.google.com/presentation/d/1EI_N4NNHL5_UTiGljRpbOU0ItgcdlxJgOCGtEP0WU0g/edit?usp=sharing) (include clickable examples).
 
-[Platforms for Pedagogy comparison chart](https://airtable.com/shruGo6djbKfzzn1X).
+[Platforms for Pedagogy comparison chart](https://airtable.com/shruGo6djbKfzzn1X). ([Alternate view](https://airtable.com/shrUjpYFfou9OMl2r) if that version is confusing.)
 
 ## FERPA
 
